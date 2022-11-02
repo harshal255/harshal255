@@ -7,7 +7,7 @@
  <h3 align="center">⚡ A passionate frontend developer from Ahmedabad,India ✨🔥</h3>
  <br>
 
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E03AQFvaAJAzmjS9g/profile-displayphoto-shrink_800_800/0/1649918149048?e=2147483647&v=beta&t=hvPUNrf4HRew6QWdOpYpEjxonIwfRl8XIbDwEpubVR4" alt="Coding" width="300" border-radius="50">
+<img align="left" src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="Coding" width="450" height="250" border-radius="50">
 
  I am an enthusiastic and passionate web developer from L.D. college of engineering Ahmedabad. I currently pursuing a bachelor's degree in Computer Science.  my main specialization is doing Web Development. I pursue perfection in my projects. I put dedication in every project that I do. And I hope my dedication will help me to explore my expertise, and to boost up my career plan. 💯💯💯
         
