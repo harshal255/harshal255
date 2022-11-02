@@ -1,27 +1,118 @@
  [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
-    <h1 align="center">Hi 👋, I'm Harshal Kahar</h1>
-<h3 align="center">A passionate frontend developer & ux designer from India</h3>
-<img align="left" src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80" alt="Coding" width="400">
+ 
+ 
+   
+ <h1 align='center'> ⚡Hey there 👋, I'm Harshal Kahar⚡</13> 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <h3 align="center">⚡ A passionate frontend developer from Ahmedabad,India ✨🔥</h3>
+ <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal255&label=Profile%20views&color=0e75b6&style=flat" alt="harshal255" /> </p>
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E03AQFvaAJAzmjS9g/profile-displayphoto-shrink_800_800/0/1649918149048?e=2147483647&v=beta&t=hvPUNrf4HRew6QWdOpYpEjxonIwfRl8XIbDwEpubVR4" alt="Coding" width="300" border-radius="50">
 
-- 🔭 I’m currently working on ** Project**
+ I am an enthusiastic and passionate web developer from L.D. college of engineering Ahmedabad. I currently pursuing a bachelor's degree in Computer Science.  my main specialization is doing Web Development. I pursue perfection in my projects. I put dedication in every project that I do. And I hope my dedication will help me to explore my expertise, and to boost up my career plan. 💯💯💯
+        
+          
+<h3 align="center">⚡ Fun fact: I love to listen music with doing code  🎶 🎶 🎶  😍😍</h3>
 
-- 🌱 I’m currently learning **React js, Next js & Backend Web development**
+<h4 align="center">⚡Coding is like maths,the only way to learn it is practice. You can't memorize it.⚡"</h4>
+<br>
+          
 
-- 💬 Ask me about **Frontend Web development,ui-ux designing,Video/Photo editing**
+        
+<p align="center>   
+          
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align='center'> ⚡Harshal's GitHub stars & streaks⚡</h3> 
 
-- 📫 How to reach me **harshalskahar389@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal255&show_icons=true&locale=en&layout=compact" alt="harshal255" /></p>
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal255&theme=great-gatsby&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshal255&show_icons=true&locale=en" alt="harshal255" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&" alt="harshal255" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        
+        
+          
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshal255&theme=violet-punch&border_radius=6)](https://git.io/streak-stats)
+        
+        
+          
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        
+        
+          
+![Harshal Kahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&theme=great-gatsby&layout=compact)
+        
+        
+          
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+ 
+ </p>
+        
+        
+          
+
+
+        
+        
+<h2 align="center">⚙ Technologies, Languages and Tools:</h2>
+                                                                                                                
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3> Core Technologies: </h3>
+        
+          
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
+                                                                                                                
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
+<br>
+<h3> Frameworks: </h3>
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+                                                                                                                
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+                                                                                                                
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+                                                                                                                
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+                                                                                                                
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)
+                                                                                                                
+![npm](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)
+                                                                                                                
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+                                                                                                                
+
+
+<br>
+<h3> Ohters: </h3>
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+                                                                                                                
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+                                                                                                                
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+                                                                                                                
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+                                                                                                                
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+                                                                                                                
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+                                                                                                                
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+        
+        
+          
+
+        
+        
+          
+
