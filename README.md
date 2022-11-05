@@ -3,6 +3,9 @@
  
    
  <h1 align='center'> ⚡Hey there 👋, I'm Harshal Kahar⚡</13> 
+ <h1 align="center"> <img 
+src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)"
+ /> </h1>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <h3 align="center">⚡ A passionate frontend developer from Ahmedabad,India ✨🔥</h3>
  <br>
