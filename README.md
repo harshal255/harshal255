@@ -24,17 +24,16 @@ src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Devel
         
 <p align="center>   
           
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align='center'> ⚡Harshal's GitHub stars & streaks⚡</h3> 
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal255&theme=great-gatsby&show_icons=true)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-        
+
+
+
+
+
+
         
           
 
@@ -47,11 +46,7 @@ src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Devel
         
         
           
-![Harshal Kahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&theme=great-gatsby&layout=compact)
-        
-        
-          
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
  
  
  </p>
