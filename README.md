@@ -151,6 +151,7 @@ src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Devel
 
 
 </ul>
+![snake gif](https://github.com/harshal255/harshal255/blob/output/snake.svg)
 
 
 
