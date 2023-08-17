@@ -1,169 +1,62 @@
- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+<p align="center">
+ 
 
- ![snake gif](https://github.com/harshal255/harshal255/blob/output/snake.svg)
- 
-  <h1 align='center'> Hey there 👋, I'm Harshal Kahar</13> 
-
-<!--  <h1 align="center"> <img 
-
-src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)"
-
- /> </h1> -->
-
-<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
- <h3 align="center">⚡ A passionate MERN Stack Web Developer from Ahmedabad,India </h3>
-
- <br>
+ <p align="center">
+ <a href="https://harshalkahar.vercel.app/">
+   <img width="900" src="https://camo.githubusercontent.com/0601087139939dde7b6db6d8e3f7fc9858eacd448254854a5b6d44b0bed37ae6/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646c737871393866722f696d6167652f75706c6f61642f76313639313038303734322f4e65787453616e697479253230426c6f67666f6c696f2f70726f66696c655f6a71663536662e706e67">
+   </a>
+</p>
 
 
 
-<!-- <img align="left" src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="Coding" width="450" height="250" border-radius="50"> -->
 
-
-
- I am an enthusiastic and passionate web developer from L.D. college of engineering Ahmedabad. I currently pursuing a bachelor's degree in Computer Science.  my main specialization is doing Web Development. I pursue perfection in my projects. I put dedication in every project that I do. And I hope my dedication will help me to explore my expertise, and to boost up my career plan. 
- 
- 
- 
- 
- <img src="https://media.licdn.com/dms/image/D4D16AQGmiRC9UC30UA/profile-displaybackgroundimage-shrink_350_1400/0/1674515592391?e=1680739200&v=beta&t=Te4yaXEfxBoLrI1NciisXclFn6lCp-3WkI7L3neQHgQ" />
- 
- 
-   
- 
- 
-<!--  ![image](https://user-images.githubusercontent.com/93152436/216432320-7a5abed6-492f-478e-907a-394271ce6dbb.png)
-![image](https://user-images.githubusercontent.com/93152436/216432398-148b920a-1112-4425-a671-bc1048f29700.png) -->
-
-        
-          
-<h3 align="center"> Fun fact: I love to listen music with doing code  🎶 😍</h3>
-
-<h4 align="center">Coding is like maths,the only way to learn it is practice. You can't memorize it."</h4>
 <br>
-          
+<p align="center">
+  <em>
+    <b>Harshal Kahar</b> here, an <b>Computer Final Year Undergrad </b>. ✨ <br>
+    A budding <b> MERN Stack Developer👩‍💻, Full Stack Developer 📌 </b> and Also a <b>UI UX Enthusiast</b>&nbsp;,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow 🚀</b> and 
+    <b>excel 🏅</b> .
+  </em> 
+  <br>
+ 
+</p>
 
-        
-<p align="center">   
+## <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp;***About me***
+- 🔭 I'm currntly working on MERN Stack Development.
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help😉<br>
+- 📫 Reach out to me at : **harshalskahar389@gmail.com**
+- ⚡ I love to listen music with doing code 🎶 😍 ✨ .
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
- 
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshal255&show_icons=true&theme=highcontrast)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<h2>👀 My github Stats</h2>
+<img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=harshal255&show_icons=true&theme=monokai">
+<img align="left" width="35%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=monokai" alt="Jas-Script" />
+<img align="left" height="25%" width="24%" alt="Harshal's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=compact">  -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&bg_color=272822&color=f1f1eb&line=cc215f&point=e28905&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/harshal255/harshal255/blob/output/snake.svg)
+
+
+
+<hr>
+
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" />
+  </a>
+</p>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 
 
-
- 
- </p>
-
-**Programming Languages**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
-        
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
-        
-</a>
-
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java"/>
-
-</a>
-
-</ul>
-          
-**Frontend Development**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="materialize-css"/>
-        
-</a>
-</ul>
-          
-**Backend Development**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
-        
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
-        
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="30" width="150" src="https://seeklogo.com/images/S/sanity-logo-36BBB4BF3A-seeklogo.com.png" alt="sanity"/>
-</a>
-</ul>
-
-
-**Database**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
-        
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://www.svgrepo.com/show/353735/firebase.svg" alt="firebase"/>
-        
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="sql"/>
-</a> 
-</ul>
-
-**Design Tool**
-
-<ul>
-
-<a target="_blank" rel="noopener noreferrer" href="">
-
-   <img height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma"/>
-
-        
-
-</a>
-
-
-
-</ul>
-
-
-
-
-
-
-
-
-        
-        
-          
-                                                                                                                
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
