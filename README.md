@@ -1,4 +1,6 @@
  [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+
+ ![snake gif](https://github.com/harshal255/harshal255/blob/output/snake.svg)
  
   <h1 align='center'> Hey there 👋, I'm Harshal Kahar</13> 
 
@@ -151,7 +153,7 @@ src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Devel
 
 
 </ul>
-![snake gif](https://github.com/harshal255/harshal255/blob/output/snake.svg)
+
 
 
 
