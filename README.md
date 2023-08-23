@@ -1,7 +1,7 @@
 <h2>👀 My github Stats</h2>
-<img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=harshal255&show_icons=true&theme=monokai">
-<img align="left" width="35%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=monokai" alt="Jas-Script" />
-<img align="left" height="25%" width="24%" alt="Harshal's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=compact&langs_count=9&theme=monokai&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img align="left" width="33%" height="30%" src="https://github-readme-stats.vercel.app/api?username=harshal255&show_icons=true&theme=vision-friendly-dark">
+<img align="left" width="35%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=vision-friendly-dark" alt="Jas-Script" />
+<img align="left" height="25%" width="24%" alt="Harshal's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=compact&langs_count=9&theme=vision-friendly-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=compact">  -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&bg_color=272822&color=f1f1eb&line=cc215f&point=e28905&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
