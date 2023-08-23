@@ -1,15 +1,14 @@
 <h2>👀 My github Stats</h2>
-<div style="display: flex; justify-content: center; ">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshal255&rank_icon=github&theme=vision-friendly-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="height: 200px; width:25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=donut&langs_count=9&theme=vision-friendly-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" alt="Most Used Languages" style=" height: 200px; ">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=vision-friendly-dark" alt="GitHub Streak" style="height: 200px; width:40% ">
+
+<div style="display: flex; justify-content: space-between;">
+   
+<img src="https://github-readme-stats.vercel.app/api?username=harshal255&rank_icon=github&theme=vision-friendly-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="height: 200px;">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&langs_count=9&theme=vision-friendly-dark&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" alt="Most Used Languages" style="height: 200px;">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=vision-friendly-dark" alt="GitHub Streak" style="height: 200px; ">
    
 </div>
-
-
-
-
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&layout=compact">  -->
 
 [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
