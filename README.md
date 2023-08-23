@@ -2,10 +2,10 @@
 
 <div style="display: flex; justify-content: space-between;">
    
-<img src="https://github-readme-stats.vercel.app/api?username=harshal255&rank_icon=github&theme=vision-friendly-dark" alt="GitHub Stats" style="height: 200px; width:30%">
+<img src="https://github-readme-stats.vercel.app/api?username=harshal255&rank_icon=github&theme=vision-friendly-dark" alt="GitHub Stats" style="height: 200px; width:33%">
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=vision-friendly-dark" alt="GitHub Streak" style="height: 200px; width:30%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&langs_count=9&theme=vision-friendly-dark&hide_progress=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" alt="Most Used Languages" style="height: 200px; width:30%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=vision-friendly-dark" alt="GitHub Streak" style="height: 200px; width:36%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&langs_count=9&theme=vision-friendly-dark&hide_progress=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" alt="Most Used Languages" style="height: 200px; width:22%">
 </div>
 
 
