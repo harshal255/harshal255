@@ -1,5 +1,7 @@
 <h2>👀 My github Stats</h2>
 
+![](https://komarev.com/ghpvc/?username=harshal255&color=blueviolet)
+
 <div style="display: flex; justify-content: space-between;">
    
 <img src="https://github-readme-stats.vercel.app/api?username=harshal255&rank_icon=github&theme=vision-friendly-dark" alt="GitHub Stats" style="height: 200px; width:33%">
