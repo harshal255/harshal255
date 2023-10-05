@@ -1,15 +1,7 @@
-<h2>👀 My github Stats</h2>
+<h2>👀 OPEN SOURCE CONTRIBUTION 🚀🚀🚀🚀</h2>
 
-![](https://komarev.com/ghpvc/?username=harshal255&color=blueviolet)
 
-<div style="display: flex; justify-content: space-between;">
-   
-<img src="https://github-readme-stats.vercel.app/api?username=harshal255&rank_icon=github&theme=vision-friendly-dark" alt="GitHub Stats" style="height: 200px; width:33%">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal255&count_private=true&theme=vision-friendly-dark" alt="GitHub Streak" style="height: 200px; width:36%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal255&langs_count=9&theme=vision-friendly-dark&hide_progress=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" alt="Most Used Languages" style="height: 200px; width:22%">
-</div>
-
+[![An image of @harshal255's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshal255)](https://holopin.io/@harshal255)
 
 [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
