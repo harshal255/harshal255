@@ -1,6 +1,7 @@
 <h2>👀 OPEN SOURCE CONTRIBUTION 🚀🚀🚀🚀</h2>
 
 
+[![An image of @harshal255's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshal255)](https://github.com/harshal255/harshal255/assets/93152436/ac6cc6e5-e658-4b18-a0e0-17940848f7d1)
 
 
 [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
