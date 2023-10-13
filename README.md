@@ -1,7 +1,8 @@
 <h2>👀 OPEN SOURCE CONTRIBUTION 🚀🚀🚀🚀</h2>
 
 
-![image](https://github.com/harshal255/harshal255/assets/93152436/d7928488-4c90-478d-af75-281c6db70a1a)
+![opensource hacktoberfest](https://github.com/harshal255/harshal255/assets/93152436/cf6ac159-bc29-4ebc-9926-b24fc13b7c5c)
+
 
 
 
