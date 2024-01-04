@@ -8,7 +8,7 @@
 
 [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/harshal255/harshal255/blob/output/snake.svg)
+![snake gif](https://github.com/harshal255/harshal255/blob/output/github-contribution-grid-snake.gif
 
 
 
