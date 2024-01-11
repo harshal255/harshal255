@@ -8,10 +8,6 @@
 
 [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/harshal255/harshal255/blob/output/github-contribution-grid-snake.gif)
-
-
-
 <hr>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
