@@ -1,33 +1,48 @@
-<h2>👀 OPEN SOURCE CONTRIBUTION 🚀🚀🚀🚀</h2>
+# Hi there, I'm Harshal Kahar 👋
 
-
-
-
-
-
-
-[![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshal255&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
-
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
-<br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,babel,javascript,react,next,tailwind,bootstrap,materialui,nodejs,expressjs,mongodb,typescript,mysql,git,github,vite,jquery,firebase,postman,cpp,java,python,php,vscode,c,vercel,netlify,figma" />
-  </a>
+  <strong>Prompt Engineer & Agentic AI Specialist | Full-Stack Developer | UI/UX Enthusiast</strong>
 </p>
 
+---
 
-</div>
+### 🚀 About Me
 
-<h2>👀 Check out My Open Source Next-Sanity Blogfolio</h2>
-<a href="https://harshalkahar.vercel.app/">
-  
-   </a>
+I am a **Prompt Engineer** specializing in designing high-fidelity LLM prompts, agentic AI workflows, token optimization pipelines, and programmatic video synthesis. I leverage my full-stack web engineering skills to build custom sandboxes, testing tools, and dynamic developer playgrounds that unlock advanced AI capabilities.
 
-   ![opensource hacktoberfest](https://github.com/harshal255/harshal255/assets/93152436/cf6ac159-bc29-4ebc-9926-b24fc13b7c5c)
+* 🧠 **Prompt Engineering & AI Focus**: Advanced System Instructions, Context Caching & Quota Management, Token Minimization (e.g. TOON serialization), and Agentic Sandbox Development.
+* 🎥 **Programmatic Video**: Crafting react-based dynamic video render pipelines and motion graphics using Remotion.
+* 💻 **Supporting Stack**: Building fast, responsive, and intuitive web interfaces for developer tooling using Next.js, React, Tailwind CSS, and TypeScript.
 
+---
 
+### 🧠 AI & Developer Tooling Specialties
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Prompt Engineering & LLM Orchestration</h4>
+      <ul>
+        <li><strong>Orchestration:</strong> Google Gemini API, OpenAI, Anthropic Claude</li>
+        <li><strong>Optimizations:</strong> Context Caching, Token Minimization, Custom Instructions</li>
+        <li><strong>Data Pipelines:</strong> Two-Way TOON compression for structured API calls</li>
+        <li><strong>Agentic Workflows:</strong> Multi-Agent tools, automated tasks, and playground sandboxes</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 Programmatic Video & Logic</h4>
+      <ul>
+        <li><strong>Remotion:</strong> Designing react-based programmatic video render pipelines</li>
+        <li><strong>Data-Driven Video:</strong> Auto-generating social media reels and clips from templates</li>
+        <li><strong>Performance:</strong> Frame-accurate layouts, asset caching, and server-side rendering</li>
+        <li><strong>UI Dynamics:</strong> Micro-animations, responsive player controls, and timeline logic</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+---
+
+<p align="center">
+  ⚡ <em>"Always learning, always building, always refining."</em>
+</p>
